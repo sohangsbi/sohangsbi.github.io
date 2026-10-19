@@ -1,6 +1,6 @@
 # SBI · Sổ hàng
 
-Trang dẫn cố định: https://nhtiensbi-droid.github.io/SBI/
+Trang dẫn cố định: https://sohangsbi.github.io/
 
 Trang này đọc `link.json` từ repo để chuyển tới địa chỉ Tunnel đang dùng. Máy chủ công ty tự cập nhật file khi khởi động web.
 
